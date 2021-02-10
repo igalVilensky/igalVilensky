@@ -1,5 +1,5 @@
 ### Hi there 👋
-𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐈𝐠𝐚𝐥 𝐚𝐧𝐝 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 👨‍
+𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗜𝗴𝗮𝗹 𝗮𝗻𝗱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 👨‍
 <!--
 **igalVilensky/igalVilensky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
