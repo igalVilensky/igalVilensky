@@ -31,7 +31,7 @@ Frontend: JavaScript, TypeScript, Vue.js, Nuxt, React
 Backend: Node.js, Directus
 Tools: Tailwind CSS, Git, GitHub Actions
 
-When I'm not coding, you can find me exploring new tech trends, contributing to open-source projects, or sipping coffee ☕ while brainstorming innovative solutions.
+When I'm not coding, you can find me exploring new tech trends, playing piano, or sipping coffee ☕ while brainstorming innovative solutions.
 
 "Code is like poetry; it’s about expressing complex ideas simply and elegantly."
 
@@ -47,17 +47,11 @@ When I'm not coding, you can find me exploring new tech trends, contributing to 
   
 
 
-🚀 Featured Projects
-
-Portfolio WebsiteA modern, responsive portfolio built with Nuxt 4 and Tailwind CSS, showcasing my skills and projects with smooth scrolling and dark mode support.Technologies: Nuxt, Vue, Tailwind CSS, TypeScriptLive Demo
-
-SaaS DashboardA scalable SaaS dashboard with user authentication and real-time data visualization, built to streamline business workflows.Technologies: React, Node.js, Directus, Tailwind CSS  
-
-Open-Source ContributionContributed to [project name] by implementing [feature/fix]. Passionate about giving back to the community!Technologies: JavaScript, GitHub Actions
 
 
 
-More projects pinned on my profile! Check them out below.
+
+Some projects pinned on my profile! Check them out below.
 
 📊 GitHub Stats
 
