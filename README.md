@@ -17,11 +17,7 @@ When I'm not coding, you can find me exploring new tech trends, playing piano, o
 
 "Code is like poetry; it’s about expressing complex ideas simply and elegantly."
 
-
 Some projects pinned on my profile! Check them out below.
-
-📊 GitHub Stats
-
 
 📫 Get in Touch
 I'm always open to collaborating on exciting projects or discussing new opportunities. Reach out to me via:
