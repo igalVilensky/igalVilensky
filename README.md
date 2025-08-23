@@ -1,27 +1,9 @@
 👋 Welcome to Igal Vilensky's GitHub!
-
-  
   
     I'm Igal Vilensky
     Full Stack Engineer
   
   Building seamless digital experiences with 3+ years in web & SaaS development 🚀
-
-  
-  
-    
-      
-    
-    
-      
-    
-    
-      
-    
-  
-
-  
-  
 
 
 🌟 About Me
@@ -35,28 +17,10 @@ When I'm not coding, you can find me exploring new tech trends, playing piano, o
 
 "Code is like poetry; it’s about expressing complex ideas simply and elegantly."
 
-🛠️ Skills
-
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
 
 Some projects pinned on my profile! Check them out below.
 
 📊 GitHub Stats
-
-  
-  
 
 
 📫 Get in Touch
