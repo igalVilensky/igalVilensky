@@ -1,32 +1,41 @@
-👋 Welcome to Igal Vilensky's GitHub!
-  
-    I'm Igal Vilensky
-    Full Stack Engineer
-  
-  Building seamless digital experiences with 3+ years in web & SaaS development 🚀
+[README.md](https://github.com/user-attachments/files/22061087/README.md)
+# 👋 Welcome to Igal Vilensky's GitHub!
 
+I'm **Igal Vilensky**, a passionate **Full Stack Engineer** with over 3 years of experience building seamless digital experiences through web and SaaS development. 🚀
 
-🌟 About Me
-I'm a passionate Full Stack Engineer with over 3 years of experience crafting robust SaaS and web applications. I specialize in creating beautiful, functional digital experiences that solve real-world problems and delight users. My toolkit includes:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square)
 
-Frontend: JavaScript, TypeScript, Vue.js, Nuxt, React
-Backend: Node.js, Directus
-Tools: Tailwind CSS, Git, GitHub Actions
+## 🌟 About Me
+I'm dedicated to crafting robust, user-friendly SaaS and web applications that solve real-world problems and delight users. My focus is on creating beautiful, functional digital experiences with clean and elegant code. 
 
-When I'm not coding, you can find me exploring new tech trends, playing piano, or sipping coffee ☕ while brainstorming innovative solutions.
+**My Toolkit:**
+| Skill | Technologies |
+|-------|--------------|
+| **Frontend** | JavaScript, TypeScript, Vue.js, Nuxt, React |
+| **Backend** | Node.js, Directus |
+| **Tools** | Tailwind CSS, Git, GitHub Actions |
 
-"Code is like poetry; it’s about expressing complex ideas simply and elegantly."
+**When I'm not coding**, you can find me:
+- 📚 Exploring new tech trends
+- 🎹 Playing piano
+- ☕ Sipping coffee while brainstorming innovative solutions
 
-Some projects pinned on my profile! Check them out below.
+> "Code is like poetry; it’s about expressing complex ideas simply and elegantly."
 
-📫 Get in Touch
-I'm always open to collaborating on exciting projects or discussing new opportunities. Reach out to me via:
+## 📌 Pinned Projects
+Check out some of my featured projects pinned below! They showcase my skills in building full-stack applications and solving real-world challenges.
 
-📧 Email: vilenskyigal@gmail.com
-📞 Phone: +49 1783099433
-💼 LinkedIn: linkedin.com/in/igal-vilensky
-🌐 Portfolio: Soon
+## 📫 Get in Touch
+I'm always open to collaborating on exciting projects or discussing new opportunities. Reach out via:
 
+- 📧 **Email**: [vilenskyigal@gmail.com](mailto:vilenskyigal@gmail.com)
+- 📞 **Phone**: +49 1783099433
+- 💼 **LinkedIn**: [linkedin.com/in/igal-vilensky](https://linkedin.com/in/igal-vilensky)
+- 🌐 **Portfolio**: [Coming soon!](#)
 
-  Let's build something amazing together! 🚀
-  Crafted with ❤️ by Igal Vilensky
+Let's build something amazing together! 🚀
+
+*Crafted with ❤️ by Igal Vilensky*
