@@ -15,7 +15,7 @@ I'm dedicated to crafting robust, user-friendly SaaS and web applications that s
 | Skill | Technologies |
 |-------|--------------|
 | **Frontend** | JavaScript, TypeScript, Vue.js, Nuxt, React |
-| **Backend** | Node.js, Directus |
+| **Backend** | Node.js, Express.js |
 | **Tools** | Tailwind CSS, Git, GitHub Actions |
 
 **When I'm not coding**, you can find me:
@@ -34,7 +34,7 @@ I'm always open to collaborating on exciting projects or discussing new opportun
 - 📧 **Email**: [vilenskyigal@gmail.com](mailto:vilenskyigal@gmail.com)
 - 📞 **Phone**: +49 1783099433
 - 💼 **LinkedIn**: [linkedin.com/in/igal-vilensky](https://linkedin.com/in/igal-vilensky)
-- 🌐 **Portfolio**: [Coming soon!](#)
+- 🌐 **Portfolio**: [(https://igalvilensky.netlify.app/)](#)
 
 Let's build something amazing together! 🚀
 
