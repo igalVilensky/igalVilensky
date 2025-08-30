@@ -34,7 +34,7 @@ I'm always open to collaborating on exciting projects or discussing new opportun
 - 📧 **Email**: [vilenskyigal@gmail.com](mailto:vilenskyigal@gmail.com)
 - 📞 **Phone**: +49 1783099433
 - 💼 **LinkedIn**: [linkedin.com/in/igal-vilensky](https://linkedin.com/in/igal-vilensky)
-- 🌐 **Portfolio**: [(https://igalvilensky.netlify.app/)](#)
+- 🌐 **Portfolio**: [https://igalvilensky.netlify.app](https://igalvilensky.netlify.app/)
 
 Let's build something amazing together! 🚀
 
