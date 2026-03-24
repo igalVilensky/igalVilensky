@@ -67,7 +67,8 @@ I focus on writing **clean, maintainable code** and designing systems that scale
 
 - 📧 Email: [vilenskyigal@gmail.com](mailto:vilenskyigal@gmail.com)  
 - 💼 LinkedIn: [https://linkedin.com/in/igal-vilensky](https://linkedin.com/in/igal-vilensky)  
-- 🌐 Portfolio: [https://igalvilensky.netlify.app](https://igalvilensky.netlify.app/)  
+- 🌐 Portfolio: [https://igalvilensky.netlify.app](https://igalvilensky.netlify.app/)
+- 🎥 YouTube: [Igal Vilensky](https://youtube.com/@igalvil) – personal travel & life moments 
 
 ---
 
